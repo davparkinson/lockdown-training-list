@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+title: Lockdown Training Ideas
+author: davparkinson
+email: not_likely@domain.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  A directory of free or discounted training.
+
+# social links
+twitter_username: davparkinson  
+github_username:  davparkinson
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+theme: minima
+
+theme: minima
